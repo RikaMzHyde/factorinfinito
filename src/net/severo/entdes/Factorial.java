@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Laura Maria Pinedo Puertas
  *
  */
 public class Factorial {
